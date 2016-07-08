@@ -16,7 +16,7 @@ Project Requirements & Objectives  | Complete
 *Objective*: Responds to: **Mobile Screens**. | X
 *Objective*: Responds to: **Tablet Screens**. | X
 *Objective*: Responds to: **Desktop Screens**. | --
-*Objective*: Media queries are your own. No Bootstrap. | --
+*Objective*: Media queries are your own. No Bootstrap. | X
 *Objective*: Images are fluid. | --
 *Objective*: Understanding of responsive design patterns demonstrated. | --
 
