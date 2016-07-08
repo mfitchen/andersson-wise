@@ -210,7 +210,6 @@ p {
     z-index: -10000;
     overflow-x: hidden;
     overflow-y: hidden;
-    visibility: visible;
   }
 
   div.nav-container {
@@ -403,7 +402,6 @@ p {
     display: block;
     width: 100vw;
     height: auto;
-    /*left: -20%;*/
     margin: 0;
     padding: 0;
   }
