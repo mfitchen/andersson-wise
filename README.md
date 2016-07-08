@@ -15,7 +15,7 @@ Project Requirements & Objectives  | Complete
 *Objective*: Page(s) respond to at least three different screen sizes. | --
 *Objective*: Responds to: **Mobile Screens**. | X
 *Objective*: Responds to: **Tablet Screens**. | X
-*Objective*: Responds to: **Desktop Screens**. | --
+*Objective*: Responds to: **Desktop Screens**. | X
 *Objective*: Media queries are your own. No Bootstrap. | X
 *Objective*: Images are fluid. | --
 *Objective*: Understanding of responsive design patterns demonstrated. | --

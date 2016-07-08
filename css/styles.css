@@ -188,6 +188,7 @@ p {
   div.project {
     left: 0;
     top: 0;
+    height: 70%;
     position: fixed;
     z-index: -10000;
     overflow-x: hidden;
@@ -215,7 +216,7 @@ p {
   }
 
   a.nav-hover:hover {
-    color: limegreen;
+    color: green;
   }
 
   h2.project-name {
@@ -228,6 +229,23 @@ p {
     position: absolute;
     bottom: 36%;
     left: 50px;
+  }
+
+  div.project {
+    position: relative;
+    display: block;
+    width: auto;
+    height: 70vh;
+  }
+
+  img.project-img {
+    position: relative;
+    display: block;
+    width: auto;
+    height: 70vh;
+    left: -20%;
+    margin: 0;
+    padding: 0;
   }
 
   div.featured-project {
@@ -289,26 +307,74 @@ p {
     width: 50%;
   }
 
-@media only screen and (min-width: 1050px) {
+}
 
-  /*main {
-    float: left;
-    width: 69vw;
+@media only screen and (min-width: 1150px) {
+
+  div.project {
+    position: relative;
+    display: block;
+    width: auto;
     height: 100vh;
   }
 
-  aside {
-    float: right;
-    width: 30vw;
-    height: 49vh;
+  img.project-img {
+    position: relative;
+    display: block;
+    width: auto;
+    height: 100vh;
+    left: -20%;
+    margin: 0;
+    padding: 0;
   }
 
-  aside.first {
-    margin-bottom: 1vh;
+  h2.project-name {
+    position: absolute;
+    bottom: 6%;
+    left: 50px;
   }
 
-  aside.second {
-    margin-top: 1vh;
+  h4.project-location {
+    position: absolute;
+    bottom: 4.75%;
+    left: 50px;
   }
 
-}*/
+  div.secondary-content {
+    width: 27%;
+    position: absolute;
+    height: 100%;
+    min-height: 230px;
+    left: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    border-left: 12px solid #ffffff;
+    border-top: none;
+    background-color: #090809;
+  }
+
+  div.featured-press {
+    height: 50%;
+    width: 100%;
+    border-bottom: 12px solid #ffffff;
+    border-right: none;
+    background-color: #051901;
+    text-align: center;
+    padding: 100px 20px;
+  }
+
+  div.about {
+    color: #dedede;
+    font-size: 14px;
+    line-height: 23px;
+    padding-left: 6%;
+    padding-right: 4%;
+    padding-top: 3%;
+    position: absolute;
+    bottom: 27%;
+    left: 10%;
+    width: 75%;
+  }
+
+}
