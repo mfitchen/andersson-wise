@@ -6,7 +6,7 @@
 
 ## Description
 
-_This is an Epicodus student solo project creating a web page that uses CSS and HTML exclusively to style and manipulate the web page for a product being sold. See spec below:_
+_This is an Epicodus student solo project creating a web page that uses CSS and HTML exclusively to style and manipulate the web page to mimick the <a href="http://www.anderssonwise.com/">Andersson-Wise</a> home page especially with media queries and responsive design. See spec below:_
 
 Project Requirements & Objectives  | Complete
 :------------- | :-------------: |
