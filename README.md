@@ -14,7 +14,7 @@ Project Requirements & Objectives  | Complete
 *Objective*: Relative units used where appropriate. | --
 *Objective*: Page(s) respond to at least three different screen sizes. | --
 *Objective*: Responds to: **Mobile Screens**. | X
-*Objective*: Responds to: **Tablet Screens**. | --
+*Objective*: Responds to: **Tablet Screens**. | X
 *Objective*: Responds to: **Desktop Screens**. | --
 *Objective*: Media queries are your own. No Bootstrap. | --
 *Objective*: Images are fluid. | --
