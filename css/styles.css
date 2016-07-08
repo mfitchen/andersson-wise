@@ -165,6 +165,19 @@ p {
     padding: 0;
   }
 
+  div.featured-project, div.featured-press {
+    padding-left: 25px;
+    padding-right: 20px;
+    position: relative;
+  }
+
+  span.caret {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    left: 10px;
+  }
+
   a.features {
     font-size: 17px;
   }
