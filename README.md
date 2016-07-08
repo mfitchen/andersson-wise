@@ -13,7 +13,7 @@ Project Requirements & Objectives  | Complete
 *Required*: Create webpage that is similar to <a href="http://www.anderssonwise.com/">*Andersson-Wise*</a>. | --
 *Objective*: Relative units used where appropriate. | --
 *Objective*: Page(s) respond to at least three different screen sizes. | --
-*Objective*: Responds to: **Mobile Screens**. | --
+*Objective*: Responds to: **Mobile Screens**. | X
 *Objective*: Responds to: **Tablet Screens**. | --
 *Objective*: Responds to: **Desktop Screens**. | --
 *Objective*: Media queries are your own. No Bootstrap. | --
