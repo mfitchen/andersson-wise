@@ -10,15 +10,15 @@ _This is an Epicodus student solo project creating a web page that uses CSS and 
 
 Project Requirements & Objectives  | Complete
 :------------- | :-------------: |
-*Required*: Create webpage that is similar to <a href="http://www.anderssonwise.com/">*Andersson-Wise*</a>. | --
-*Objective*: Relative units used where appropriate. | --
-*Objective*: Page(s) respond to at least three different screen sizes. | --
+*Required*: Create webpage that is similar to <a href="http://www.anderssonwise.com/">*Andersson-Wise*</a>. | X
+*Objective*: Relative units used where appropriate. | X
+*Objective*: Page(s) respond to at least three different screen sizes. | X
 *Objective*: Responds to: **Mobile Screens**. | X
 *Objective*: Responds to: **Tablet Screens**. | X
 *Objective*: Responds to: **Desktop Screens**. | X
 *Objective*: Media queries are your own. No Bootstrap. | X
-*Objective*: Images are fluid. | --
-*Objective*: Understanding of responsive design patterns demonstrated. | --
+*Objective*: Images are fluid. | X
+*Objective*: Understanding of responsive design patterns demonstrated. | X
 
 ## Setup/Installation Requirements
 
