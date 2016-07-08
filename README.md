@@ -1,6 +1,6 @@
-# _Product Sale_
+# _Andersson-Wise Architects (Responsive Design)_
 
-#### _Epicodus: CSS (Week 1 Solo Project), July 1, 2016_
+#### _Epicodus: CSS (Week 2 Solo Project), July 8, 2016_
 
 #### By _**Marty Fitchen**_
 
